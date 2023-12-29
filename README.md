@@ -1,0 +1,1 @@
+# Portugal_ads_Properties
