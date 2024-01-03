@@ -63,8 +63,6 @@ select
        length(trim(both ' ' from district)) as after_trim
    from portugal_prop_clean ;
 
-<img width="280" alt="1 length of district column" src="https://github.com/Sanjaya92/Portugal_ads_Properties/assets/145874044/18187ac6-21c8-4b0f-9636-2e5734af326a">
-
 
 --Remove begining and ending spaces from district column
 update portugal_prop_clean
